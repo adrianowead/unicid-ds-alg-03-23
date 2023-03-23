@@ -1,2 +1,3 @@
-# unicid-ds-alg-03-23
-Atividade prática da disciplina de Algoritmos para Data Science - Unicid
+# Algoritmos para Data Science - Unicid
+
+Atividade prática da disciplina de Algoritmos para Data Science - Unicid, 1º Semestre 2023 (2º Período).
